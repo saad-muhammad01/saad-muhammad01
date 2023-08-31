@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Saad and <br>I'm a Game, Web, Software Developer and<br> a Ethical Hacker from Pakistan</h2>
+<h2 align="left">Hi 👋 My name is Saad and <br>I'm a Game, Web, Software Developer and<br> a Ethical Hacker from Pakistan</h2>
 
 ###
 
