@@ -1,50 +1,39 @@
-<h2 align="left">Hi 👋 My name is Saad and <br>I'm a Game, Web, Software Developer and<br> a Ethical Hacker from Pakistan</h2>
+## Hi there! 👋
 
-###
+I'm **Saad Muhammad**, a passionate **Ethical Hacker** and **Game, Software, and Web Developer** from Pakistan. I love turning ideas into reality through code!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saad-muhammad01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saad-muhammad01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## About Me
 
-###
+I'm an enthusiastic developer with a keen interest in ethical hacking and web development. My goal is to create innovative solutions that solve real-world problems. You can check out my portfolio [here](https://saadportfolio.rf.gd/).
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  /> 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+## Skills & Technologies
 
-###
+html,css,js,react,cs,cpp,bash,postgres,py,linux,bootstrap,git,jquery,unity,unreal,vscode,visualstudio,windows,tailwind,debian
 
-<div align="left">
-  <a href="https://www.instagram.com/saad_muhammad01/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/saad-muhammad-abdullah-80a703269/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://codepen.io/saad-muhammad01" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
-  </a>
-</div>
+## GitHub Stats
 
-###
+🌟 **Public Repositories:** 15 
+👥 **Followers:** 2 
+👤 **Following:** 1 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saad-muhammad01&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- Created a new repository: [LiseBasariAI](https://github.com/saad-muhammad01/LiseBasariAI) on **May 12, 2025**.
+- Contributed to multiple projects and repositories, enhancing their functionality and performance.
+
+## Connect with Me
+
+{"FreeCodeCamp":"https://www.freecodecamp.org/saad-muhammad01","linkedin":"https://linkedin.com/in/saad-muhammad-abdullah-80a703269","instagram":"https://instagram.com/saad_muhammad01","Portfolio-Website":"https://saadm.vercel.app"}
+
+## ASCII Art
+
+```
+   _____                 __    ____ ___
+  / ___/____ _____ _____/ /   / __ <  /
+  \__ \/ __ `/ __ `/ __  /   / / / / / 
+ ___/ / /_/ / /_/ / /_/ /   / /_/ / /  
+/____/\__,_/\__,_/\__,_/____\____/_/   
+                      /_____/          
+```
