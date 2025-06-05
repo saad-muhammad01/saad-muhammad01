@@ -23,17 +23,15 @@ html,css,js,react,cs,cpp,bash,postgres,py,linux,bootstrap,git,jquery,unity,unrea
 - Created a new repository: [LiseBasariAI](https://github.com/saad-muhammad01/LiseBasariAI) on **May 12, 2025**.
 - Contributed to multiple projects and repositories, enhancing their functionality and performance.
 
-## Connect with Me
-
-{"FreeCodeCamp":"https://www.freecodecamp.org/saad-muhammad01","linkedin":"https://linkedin.com/in/saad-muhammad-abdullah-80a703269","instagram":"https://instagram.com/saad_muhammad01","Portfolio-Website":"https://saadm.vercel.app"}
-
 ## ASCII Art
 
 ```
-   _____                 __    ____ ___
-  / ___/____ _____ _____/ /   / __ <  /
-  \__ \/ __ `/ __ `/ __  /   / / / / / 
- ___/ / /_/ / /_/ / /_/ /   / /_/ / /  
-/____/\__,_/\__,_/\__,_/____\____/_/   
-                      /_____/          
+
+                         __                     __                                        ______ ___
+   _________ _____ _____/ /    ____ ___  __  __/ /_  ____ _____ ___  ____ ___  ____ _____/ / __ <  /
+  / ___/ __ `/ __ `/ __  /    / __ `__ \/ / / / __ \/ __ `/ __ `__ \/ __ `__ \/ __ `/ __  / / / / / 
+ (__  ) /_/ / /_/ / /_/ /    / / / / / / /_/ / / / / /_/ / / / / / / / / / / / /_/ / /_/ / /_/ / /  
+/____/\__,_/\__,_/\__,_/____/_/ /_/ /_/\__,_/_/ /_/\__,_/_/ /_/ /_/_/ /_/ /_/\__,_/\__,_/\____/_/   
+                      /_____/                                                                       
+
 ```
